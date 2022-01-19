@@ -1,4 +1,14 @@
-### Hi there 👋
+### Bienvenue sur mon compte github
+Voici la liste de mes projets
+## R / Rstudio
+
+## C / C++
+[MIMAGE](https://github.com/mrsolarius/mimage_protocole] : programme client/serveur TCP d'échange d'image
+
+## Html / css
+
+## Php et SQL
+
 
 <!--
 **l3miage-turcjul/l3miage-turcjul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
