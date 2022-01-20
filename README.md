@@ -3,8 +3,8 @@ Voici la liste de mes projets
 ## R / Rstudio
 
 ## C / C++
-[MIMAGE](https://github.com/mrsolarius/mimage_protocole) : programme client/serveur TCP d'échange d'image
-[Annuaire](https://github.com/l3miage-turcjul/Annuaire) : programme de gestion de contact
+- [MIMAGE](https://github.com/mrsolarius/mimage_protocole) : programme client/serveur TCP d'échange d'image
+- [Annuaire](https://github.com/l3miage-turcjul/Annuaire) : programme de gestion de contact
 
 ## Html / css
 
