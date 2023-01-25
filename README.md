@@ -5,7 +5,7 @@ Voici la liste de mes projets
 ### Angular / Typescript
 - [CyberChamis-Client](https://github.com/mrsolarius/CyberChamis-Client) : Interface web du projet CyberChamis
 ### Html / CSS / PHP / SQL
--[Projet BD Avancé 2021](https://github.com/l3miage-turcjul/Projet-BD-Avanc-STID-2021) : Interface web inéragissant avec une base de donnée.
+- [Projet BD Avancé 2021](https://github.com/l3miage-turcjul/Projet-BD-Avanc-STID-2021) : Interface web inéragissant avec une base de donnée.
 
 ## Back-End
 ### Java
