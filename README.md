@@ -1,7 +1,5 @@
 # Bienvenue sur mon compte github
 Voici la liste de mes projets
-## R / Rstudio
-
 ## C / C++
 - [MIMAGE](https://github.com/mrsolarius/mimage_protocole) : programme client/serveur TCP d'échange d'image
 - [Annuaire](https://github.com/l3miage-turcjul/Annuaire) : programme de gestion de contact en ligne de commande
@@ -15,6 +13,9 @@ Voici la liste de mes projets
 
 ## Java
 - [CyberChamis-Server](https://github.com/mrsolarius/CyberChamis-Server) : Partie Back-end du projet CyberChamis
+
+## R / Rstudio
+- [Projet CNE](https://github.com/l3miage-turcjul/Projet-CNE) : Enquête statistique pour la Communauté Nationnale Etudiante. Le projet contient une chaine ETL en R.
 
 ## Langages exotiques
 - [Prolog](https://github.com/l3miage-turcjul/Prolog) : Tous les exercices et projets que j'ai effectué en prolog
