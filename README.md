@@ -1,14 +1,23 @@
-### Bienvenue sur mon compte github
+# Bienvenue sur mon compte github
 Voici la liste de mes projets
 ## R / Rstudio
 
 ## C / C++
 - [MIMAGE](https://github.com/mrsolarius/mimage_protocole) : programme client/serveur TCP d'échange d'image
-- [Annuaire](https://github.com/l3miage-turcjul/Annuaire) : programme de gestion de contact
+- [Annuaire](https://github.com/l3miage-turcjul/Annuaire) : programme de gestion de contact en ligne de commande
 
-## Html / css
+## FrontEnd
+### Angular / Typescript
+- [CyberChamis-Client](https://github.com/mrsolarius/CyberChamis-Client) : Interface web du projet CyberChamis
+### Html / css
 
 ## Php et SQL
+
+## Java
+- [CyberChamis-Server](https://github.com/mrsolarius/CyberChamis-Server) : Partie Back-end du projet CyberChamis
+
+## Langages exotiques
+- [Prolog](https://github.com/l3miage-turcjul/Prolog) : Tous les exercices et projets que j'ai effectué en prolog
 
 
 <!--
