@@ -3,6 +3,7 @@ Voici la liste de mes projets
 
 ## Front-End
 ### Angular / Typescript
+- [Jeux du Reversi](https://github.com/l3-miage-cl-ihm/jeu-de-reversi-l3miage-turcjul) : Exercice de cour demandant d'effectuer l'IHM d'un jeu de reversi?
 - [CyberChamis-Client](https://github.com/mrsolarius/CyberChamis-Client) : Interface web du projet CyberChamis
 ### Html / CSS / PHP / SQL
 - [Projet BD Avancé 2021](https://github.com/l3miage-turcjul/Projet-BD-Avanc-STID-2021) : Interface web intéragissant avec une base de donnée MySQL en PHP.
